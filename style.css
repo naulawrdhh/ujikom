@@ -1,0 +1,15 @@
+.jumbotron{
+    background-image: url(gambar/skla.webp);
+    background-size: cover;
+    background-position: center center;
+    padding: 200px;
+}
+
+.logo img {
+    height: 30px;
+    padding-right: 30px;
+  }
+
+  .jurusan{
+    background-color: #608BC1;
+  }
